@@ -14,3 +14,34 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🎨 4️⃣ UI Wireframe Ideas (Simple but Premium)
+
+🏠 Dashboard Layout
+
+--------------------------------
+|  SpendSense 💸               |
+|  "Know where your money goes"|
+--------------------------------
+| ₹12,450  | Regret: 42% 😬    |
+| This Month Spending          |
+--------------------------------
+| 📊 Category Chart            |
+--------------------------------
+| 📖 Story Mode Insight        |
+--------------------------------
+
+
+➕ Add Expense Screen
+
+Amount:   [ ₹ ____ ]
+Note:     [ Zomato order ]
+Category: [ Auto-detected 🍔 ]
+Mood:     🙂 😐 😞
+[ Add Expense ]
+
+😬 Regret Score Visual
+
+Regret Meter
+[███████-----] 42%
+"Mostly impulsive expenses"
